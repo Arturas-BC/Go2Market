@@ -22,7 +22,13 @@ Current sales channels used by Brand Club across two categories:
 | 15 | StockX | Resale marketplace | TBC |
 | 16 | WhatNot | Live-shopping marketplace | TBC |
 
+## Advertising
+- All current ad spend is on-platform, within the channels listed above
+  (e.g. eBay Promoted Listings, Amazon Ads, Etsy Ads, Allegro Ads, Kaufland Ads).
+- No off-platform paid media today (Google, Meta, TikTok, etc.).
+
 ## Open questions
 - Confirm which category each channel serves (fashion, switches, or both).
 - What are eBay Cabinhold and eBay AgeNoMore — separate brands, or a third category?
+- Which channels actually carry ad spend, and the monthly budget / ROAS per channel.
 - Revenue / margin / volume per channel, if available, to inform prioritisation.

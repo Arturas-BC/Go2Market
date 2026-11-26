@@ -9,3 +9,6 @@ Product categories today:
 
 Existing sales channels: see `channels.md` (16 channels). Any new-product
 GTM strategy should start from these channels before proposing new ones.
+
+Advertising: ad spend today is only on-platform within these channels;
+no off-platform paid media (Google, Meta, TikTok, etc.).
